@@ -1,1 +1,9 @@
 notebooks/.ipynb_checkpoints/
+output/counts
+output/meta
+output/gom
+
+.Rhistory
+notebooks/.RData
+notebooks/.Rhistory
+
